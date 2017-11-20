@@ -3,6 +3,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
+/*
+ * Coded by tan2pow16 on GitHub, 2017. All rights reserved.
+ * Our group name is "小王子". (A proof that the code is indeed made by me)
+ */
+
 public class TestMidProjIM
 {
 	public static void generateTestFile(String file) throws IOException
